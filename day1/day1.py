@@ -16,7 +16,7 @@ print("hello print text in quotes \"text in quotes\"");
 # or can we doen using single quotes
 print('hello print text in quotes \"text in quotes\"');
 
-# print a lasge tetx on write in multiple lines use tripple quotes """
+# print a large tetx on write in multiple lines use tripple quotes """
 
 print(""" test multiple linnes text testfirst
       sendoc 
