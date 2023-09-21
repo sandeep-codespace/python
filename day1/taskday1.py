@@ -76,3 +76,18 @@ print("First Value:", firstValue);
 
 print("Second Value", secondValue);
 print("Third Value", thirdValue);
+
+# we can directly swap value in python
+
+x =10;
+y=20;
+print(x,y);
+y,x = x,y;
+print(x,y);
+
+#same goes for n number of swaps
+
+x,y,z = 10,20,30;
+print(x,y,z);
+z,x,y = x,y,z;
+print(x,y,z);
